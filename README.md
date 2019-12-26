@@ -1,4 +1,4 @@
-In the project directory i.e reddit, you can run:
+In the project directory you can run:
 
 ### `npm start`
 
